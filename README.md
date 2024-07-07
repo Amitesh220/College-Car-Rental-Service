@@ -1,4 +1,4 @@
-# Car Rental System
+# College Car Rental Service
 
 The Car Rental System is a console-based application written in C++ that allows users to browse available cars, view details, and lease a car by providing personal information and payment details.
 
