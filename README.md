@@ -23,7 +23,7 @@ The Car Rental System is a console-based application written in C++ that allows 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/car-rental-system.git
+   git clone https://github.com/Amitesh220/College-Car-Rental-Service.git
    ```
 
 2. **Navigate to the project directory:**
