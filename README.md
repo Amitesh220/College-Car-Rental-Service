@@ -80,4 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to customize the sections according to additional features, specific instructions for setup, or any other details relevant to your project.
+
